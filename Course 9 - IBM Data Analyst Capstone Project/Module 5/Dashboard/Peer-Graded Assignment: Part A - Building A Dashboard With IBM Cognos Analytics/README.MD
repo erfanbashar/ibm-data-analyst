@@ -1,11 +1,11 @@
 Peer-Graded Assignment: Part A - Building a Dashboard with IBM Cognos Analytics
 
 Guidelines for the Submission
-1. Download the 2 files m5_survey_data_demographics.csv and m5_survey_data_technologies_normalised.csv. Upload these 2 CSV files as data assets to your project Cognos Analytics.
-2. Create 3 dashboards (3 separate tabs under a single dashboard) as follows:
-  1. One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Current Technology Usage.
-  2. One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Future Technology Trend.
-  3. One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Demographics.
+- Download the 2 files m5_survey_data_demographics.csv and m5_survey_data_technologies_normalised.csv. Upload these 2 CSV files as data assets to your project Cognos Analytics.
+- Create 3 dashboards (3 separate tabs under a single dashboard) as follows:
+  - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Current Technology Usage.
+  - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Future Technology Trend.
+  - One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Demographics.
 3. On the Current Technology Usage dashboard tab, use the data asset m5_survey_data_technologies_normalised.csv and capture the following metrics as visualizations:
   3.1. In the first rectangle (Panel 1):
     3.1.1. Capture Top 10 LanguageWorkedWith.
