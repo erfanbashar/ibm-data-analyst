@@ -3,10 +3,10 @@ All courses and modules of IBM Data Analyst Professional Certification
 
 About this certification:
 
-	* Master the most up-to-date practical skills and tools that data analysts use in their daily roles
-	* Learn how to visualize data and present findings using various charts in Excel spreadsheets and BI tools like IBM Cognos Analytics & Tableau
-	* Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services 
-	* Gain technical experience through hands-on labs and projects and build a portfolio to showcase your work
+	- Master the most up-to-date practical skills and tools that data analysts use in their daily roles
+	- Learn how to visualize data and present findings using various charts in Excel spreadsheets and BI tools like IBM Cognos Analytics & Tableau
+	- Develop a working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services 
+	- Gain technical experience through hands-on labs and projects and build a portfolio to showcase your work
 
 Through this certification, in-demand skills like Python, Excel, and SQL were implemented.
 
@@ -20,10 +20,10 @@ Throughout the program, projects were developed that require technical skills to
 
 A brief list of Projects are:
 
-	* Import, clean, and analyze fleet vehicle inventory with Excel pivot tables
-	* Use car sales key performance indicator (KPI) data to create an interactive dashboard with visualizations
-	* Extract and graph financial data with the Pandas data analysis Python library
-	* Use SQL to query census, crime, and school demographic data sets
-	* Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries
-	* Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability
-	* A capstone project specifically designed to showcase data analyst skills.
+	- Import, clean, and analyze fleet vehicle inventory with Excel pivot tables
+	- Use car sales key performance indicator (KPI) data to create an interactive dashboard with visualizations
+	- Extract and graph financial data with the Pandas data analysis Python library
+	- Use SQL to query census, crime, and school demographic data sets
+	- Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries
+	- Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability
+	- A capstone project specifically designed to showcase data analyst skills.
